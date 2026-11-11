@@ -95,4 +95,4 @@ Este repositório será atualizado conforme eu avançar nas aulas, resolver exer
 
 ---
 
-**Projeto de estudos pessoal, Sistemas de Informação.**
+**Projeto de estudos pessoal, Sistemas de Informação.**     
